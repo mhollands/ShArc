@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name TMUX1511PWR)(type Legacy)(uri ${KIPRJMOD}/TMUX1511PWR.lib)(options "")(descr ""))
+  (lib (name AP2210K-3.3TRG1)(type Legacy)(uri ${KIPRJMOD}/AP2210K-3.3TRG1.lib)(options "")(descr ""))
+)

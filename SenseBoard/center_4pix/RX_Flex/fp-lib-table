@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Molex_FPC)(type KiCad)(uri "/Users/matthollands/Library/Mobile Documents/com~apple~CloudDocs/PersonalProjects/ShArc/SenseBoard/Molex_FPC.pretty")(options "")(descr ""))
+  (lib (name Pixels)(type KiCad)(uri "/Users/matthollands/Library/Mobile Documents/com~apple~CloudDocs/PersonalProjects/ShArc/SenseBoard/Pixels.pretty")(options "")(descr ""))
+)
